@@ -19,12 +19,18 @@
 # Skills
 Nodejs
 Javascript
-Expressjs
+Express
+Ejs
+React
 Mongodb
 Microservices
 Git
 Heroku
 
 # Experience
-TheCodeCenter 2020 - 2021 <br>
+OFNL 2022 - 2023 <br>
+   Backend Developer
+
+# Experience
+TheCodeCenter 2021 - 2022 <br>
    Software Developer
