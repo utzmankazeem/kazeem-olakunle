@@ -28,9 +28,9 @@ Git
 Heroku
 
 # Experience
+
 OFNL 2022 - 2023 <br>
    Backend Developer
 
-# Experience
 TheCodeCenter 2021 - 2022 <br>
    Software Developer
